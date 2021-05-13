@@ -1,0 +1,68 @@
+2021-05-13 21:43:10,004 WARN  [SoapUI] Missing folder [C:\Rajdeep\Product Repository\my-app\ext] for external libraries
+2021-05-13 21:43:10,199 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\RajdeepDebPurkayasth\soapui-settings.xml]
+2021-05-13 21:43:12,051 INFO  [WsdlProject] Loaded project from [file:/C:/Rajdeep/Product%20Repository/my-app/Product-Repository-soapui-project.xml]
+2021-05-13 21:43:12,595 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [Product Repository]
+2021-05-13 21:43:12,597 INFO  [SoapUITestCaseRunner] Running Project [Product Repository], runType = SEQUENTIAL
+2021-05-13 21:43:12,616 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add Product]
+2021-05-13 21:43:12,642 INFO  [SoapUITestCaseRunner] running step [ProductAdd]
+2021-05-13 21:43:12,694 INFO  [SoapUITestCaseRunner] running step [Create Product]
+2021-05-13 21:43:14,970 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:14,971 INFO  [SoapUITestCaseRunner] running step [Get Product By Id]
+2021-05-13 21:43:16,024 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:16,025 INFO  [SoapUITestCaseRunner] running step [Get All Products]
+2021-05-13 21:43:17,537 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:17,538 INFO  [SoapUITestCaseRunner] running step [Delete product By Id]
+2021-05-13 21:43:19,550 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:19,551 INFO  [SoapUITestCaseRunner] running step [Check Product By Id]
+2021-05-13 21:43:20,351 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:20,353 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add Product], time taken: 7678ms, status: FINISHED
+2021-05-13 21:43:20,364 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Product Repository]
+2021-05-13 21:43:20,378 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2021-05-13 21:43:21,418 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add Product]
+2021-05-13 21:43:21,419 INFO  [SoapUITestCaseRunner] running step [ProductAdd]
+2021-05-13 21:43:21,421 INFO  [SoapUITestCaseRunner] running step [Create Product]
+2021-05-13 21:43:23,348 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:23,349 INFO  [SoapUITestCaseRunner] running step [Get Product By Id]
+2021-05-13 21:43:24,366 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:24,369 INFO  [SoapUITestCaseRunner] running step [Get All Products]
+2021-05-13 21:43:25,518 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:25,519 INFO  [SoapUITestCaseRunner] running step [Delete product By Id]
+2021-05-13 21:43:26,722 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:26,723 INFO  [SoapUITestCaseRunner] running step [Check Product By Id]
+2021-05-13 21:43:27,635 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:27,637 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add Product], time taken: 6187ms, status: FINISHED
+2021-05-13 21:43:27,675 INFO  [log] FINISHED
+2021-05-13 21:43:27,679 INFO  [log] 6187
+2021-05-13 21:43:27,698 INFO  [log] skuSKU00090
+2021-05-13 21:43:27,699 INFO  [log] nameTest Product100
+2021-05-13 21:43:27,700 INFO  [log] price500
+2021-05-13 21:43:28,147 INFO  [log] The Product In Create Id Is:12342346
+2021-05-13 21:43:28,154 INFO  [log] The Product In Get Product Id Is:12342346
+2021-05-13 21:43:28,209 INFO  [log] The Total Products Added Are21
+2021-05-13 21:43:28,212 INFO  [log] The Product with Id 12342346 Has Been Deleted :true
+2021-05-13 21:43:28,214 INFO  [log] idvalueCheckProductByIdThe product that was requested doesn't exist. Verify the product and try again.
+2021-05-13 21:43:28,218 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Add Product]
+2021-05-13 21:43:28,218 INFO  [SoapUITestCaseRunner] running step [ProductAdd]
+2021-05-13 21:43:28,219 INFO  [SoapUITestCaseRunner] running step [Create Product]
+2021-05-13 21:43:29,637 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:29,639 INFO  [SoapUITestCaseRunner] running step [Get Product By Id]
+2021-05-13 21:43:30,919 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:30,922 INFO  [SoapUITestCaseRunner] running step [Get All Products]
+2021-05-13 21:43:32,055 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:32,056 INFO  [SoapUITestCaseRunner] running step [Delete product By Id]
+2021-05-13 21:43:33,272 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:33,273 INFO  [SoapUITestCaseRunner] running step [Check Product By Id]
+2021-05-13 21:43:34,090 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2021-05-13 21:43:34,091 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Add Product], time taken: 5855ms, status: FINISHED
+2021-05-13 21:43:34,097 INFO  [log] FINISHED
+2021-05-13 21:43:34,099 INFO  [log] 5855
+2021-05-13 21:43:34,103 INFO  [log] skuSKU00091
+2021-05-13 21:43:34,105 INFO  [log] nameTest Product200
+2021-05-13 21:43:34,109 INFO  [log] price1000
+2021-05-13 21:43:34,118 INFO  [log] The Product In Create Id Is:12342347
+2021-05-13 21:43:34,121 INFO  [log] The Product In Get Product Id Is:12342347
+2021-05-13 21:43:34,144 INFO  [log] The Total Products Added Are21
+2021-05-13 21:43:34,149 INFO  [log] The Product with Id 12342347 Has Been Deleted :true
+2021-05-13 21:43:34,154 INFO  [log] idvalueCheckProductByIdThe product that was requested doesn't exist. Verify the product and try again.
+2021-05-13 21:43:34,159 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Product Repository], time taken: 13778ms, status: FINISHED
+2021-05-13 21:43:34,167 INFO  [SoapUITestCaseRunner] Project [Product Repository] finished with status [FINISHED] in 21564ms

@@ -1,0 +1,20 @@
+2021-05-13 21:43:27,675 INFO  [log] FINISHED
+2021-05-13 21:43:27,679 INFO  [log] 6187
+2021-05-13 21:43:27,698 INFO  [log] skuSKU00090
+2021-05-13 21:43:27,699 INFO  [log] nameTest Product100
+2021-05-13 21:43:27,700 INFO  [log] price500
+2021-05-13 21:43:28,147 INFO  [log] The Product In Create Id Is:12342346
+2021-05-13 21:43:28,154 INFO  [log] The Product In Get Product Id Is:12342346
+2021-05-13 21:43:28,209 INFO  [log] The Total Products Added Are21
+2021-05-13 21:43:28,212 INFO  [log] The Product with Id 12342346 Has Been Deleted :true
+2021-05-13 21:43:28,214 INFO  [log] idvalueCheckProductByIdThe product that was requested doesn't exist. Verify the product and try again.
+2021-05-13 21:43:34,097 INFO  [log] FINISHED
+2021-05-13 21:43:34,099 INFO  [log] 5855
+2021-05-13 21:43:34,103 INFO  [log] skuSKU00091
+2021-05-13 21:43:34,105 INFO  [log] nameTest Product200
+2021-05-13 21:43:34,109 INFO  [log] price1000
+2021-05-13 21:43:34,118 INFO  [log] The Product In Create Id Is:12342347
+2021-05-13 21:43:34,121 INFO  [log] The Product In Get Product Id Is:12342347
+2021-05-13 21:43:34,144 INFO  [log] The Total Products Added Are21
+2021-05-13 21:43:34,149 INFO  [log] The Product with Id 12342347 Has Been Deleted :true
+2021-05-13 21:43:34,154 INFO  [log] idvalueCheckProductByIdThe product that was requested doesn't exist. Verify the product and try again.
